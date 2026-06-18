@@ -11,6 +11,10 @@ gfpgan/
 *.heic
 *.tif
 *.tiff
+!assets/
+!assets/demo/
+!assets/demo/*.jpg
+!assets/demo/*.png
 !examples/README.md
 !skills/**/assets/*.svg
 
