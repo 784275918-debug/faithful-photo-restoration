@@ -1,0 +1,30 @@
+# Private user outputs
+outputs/
+work/
+gfpgan/
+*.zip
+
+# Private photos and common image dumps
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.tif
+*.tiff
+!examples/README.md
+!skills/**/assets/*.svg
+
+# Local system files
+.DS_Store
+
+# Python/runtime cache
+__pycache__/
+.venv/
+venv/
+node_modules/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem

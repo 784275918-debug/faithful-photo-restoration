@@ -1,0 +1,3 @@
+id,source_path,mode,preprocess_status,ai_candidate_path,final_status,final_path,notes
+photo_01,/private/source/photo_01.jpg,bw,cropped-and-straightened,/private/candidates/photo_01.png,ai-accepted,/private/final/photo_01.jpg,
+photo_02,/private/source/photo_02.jpg,color,cropped-and-straightened,,local-conservative,/private/final/photo_02.jpg,AI candidate redrew faces

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Faithful Photo Restoration"
+  short_description: "Faithful old-photo repair with face QA"
+  default_prompt: "Use $faithful-photo-restoration to restore old family photos while preserving original faces and removing photographed borders."
